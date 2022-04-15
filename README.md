@@ -1,10 +1,6 @@
 <h1 align="center">Hi  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Kareem Khaled</h1>
 <h3 align="center">Instructor & Mentor at ICPC Assiut Community, ACPC Finalist, and a Freelancer at Upwork and Fiverr.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kareem-khaled&label=Profile%20views&color=0e75b6&style=flat" alt="kareem-khaled" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareem-khaled" alt="kareem-khaled" /></a> </p>
-
 - 📫 How to reach me **kareemkhaled143@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
