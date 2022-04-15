@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kareem Khaled</h1>
+<h1 align="center">Hi  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Kareem Khaled</h1>
 <h3 align="center">Instructor & Mentor at ICPC Assiut Community, ACPC Finalist, and a Freelancer at Upwork and Fiverr.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kareem-khaled&label=Profile%20views&color=0e75b6&style=flat" alt="kareem-khaled" /> </p>
