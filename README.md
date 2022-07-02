@@ -1,6 +1,9 @@
-<h1 align="center">Hi</h1>,
+<h3 align="center">
+Hi
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-<h1> I'm Kareem Khaled</h1>
+, I'm Kareem Khaled
+</h3>
+
 <h3 align="center">Instructor & Mentor at ICPC Assiut Community, ACPC Finalist, and a Freelancer at Upwork and Fiverr.</h3>
 
 - 📫 How to reach me **kareemkhaled143@gmail.com**
