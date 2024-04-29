@@ -4,7 +4,7 @@ Hi
 , I'm Kareem Khaled
 </h1>
 
-<h3 align="center">Software Engineer <a href="https://www.ejada.com/">@Ejada</a>, Instructor & Mentor at ICPC Assiut Community, ACPC Finalist</h3>
+<h3 align="center">Software Engineer <a href="https://www.ejada.com/">@Ejada</a>, Instructor & Mentor <a href="https://www.facebook.com/icpcassiutt">@ICPC Assiut Community</a>, ACPC Finalist</h3>
 <!-- , and a Freelancer at Upwork and Fiverr. -->
 
 - 📫 How to reach me **kareemkhaled143@gmail.com**
